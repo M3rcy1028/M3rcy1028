@@ -1,3 +1,5 @@
+<div align=center>
+
 <!--
 **M3rcy1028/M3rcy1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3rcy1028&layout=compact&theme=swift) <p> </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3rcy1028&show_icons=true&theme=swift)
 
-
+  </div>
