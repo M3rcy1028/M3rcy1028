@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ARM-394049?style=flat-square&logo=Arm Keil&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Verilog-DADCFC?style=flat-square&logo=V&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/> 
   <br>
 
 <h1>Tools</h1>
