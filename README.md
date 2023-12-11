@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ARM-394049?style=flat-square&logo=Arm Keil&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ARM-394049?style=flat-square&logo=arm&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Verilog-DADCFC?style=flat-square&logo=V&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/> 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Keil uVision-2E6639?style=flat-square&logo=armkeil&logoColor=white"/>
 <img src="https://img.shields.io/badge/InterlliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Virtual Box-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
   <br>
