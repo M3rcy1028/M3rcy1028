@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <br>
   
 <h1>Statistics</h1>
-
+ 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mercy_1028)<p></p>
 ![Top Langs](https://github-readme-stats-roan-nu-97.vercel.app/api/top-langs/?username=M3rcy1028&layout=compact&theme=graywhite) <p> </p>
 <!--- github stats
