@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <h1>Tools</h1>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft SQL server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <p></p>
+<img src="https://img.shields.io/badge/Microsoft SQL server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Quartus Prime Lite-003D8F?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <p></p>
 <img src="https://img.shields.io/badge/Keil uVision-2E6639?style=flat-square&logo=armkeil&logoColor=white"/>
 <img src="https://img.shields.io/badge/InterlliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white"/>
